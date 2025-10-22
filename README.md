@@ -39,7 +39,7 @@ Welcome to the **Weather Forecast Application**, a Python-based project built us
    - If the API key is invalid (HTTP 401): Displays an authentication error.
 5. The weather details are displayed in a detailed and user-friendly format.
 
-![GUI Flowchart](https://miro.com/app/board/uXjVJ3neTdY=/?share_link_id=433954352531)
+[GUI Flowchart](https://miro.com/app/board/uXjVJ3neTdY=/?share_link_id=433954352531)
 
 ---
 
@@ -50,7 +50,7 @@ Welcome to the **Weather Forecast Application**, a Python-based project built us
    - If invalid: Displays an error message.
 3. The loop continues until the user types `exit`.
 
-![CLI Flowchart](https://miro.com/app/board/uXjVJ3neTdY=/?share_link_id=433954352531)
+[CLI Flowchart](https://miro.com/app/board/uXjVJ3neTdY=/?share_link_id=433954352531)
 
 ---
 
