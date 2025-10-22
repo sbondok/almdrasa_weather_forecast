@@ -4,7 +4,7 @@ Welcome to the **Weather Forecast Application**, a Python-based project built us
 
 ---
 ### Note:
-- Sorry you have to have API key from ![Weather web site](https://openweathermap.org/api)
+- Sorry you have to have API key from [Weather web site](https://openweathermap.org/api)
 - You can have a free api key for limited time - just sign up for free.
 
 ## Features
