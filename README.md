@@ -3,8 +3,8 @@
 Welcome to the **Weather Forecast Application**, a Python-based project built using **Tkinter** for GUI and **OpenWeatherMap API** for real-time weather data. This application is designed to provide users with an intuitive and interactive way to fetch weather details for any city worldwide. The project also includes a command-line interface (CLI) version for lightweight usage.
 
 ---
-###Note:
-- Sorry you have to have API key from ![Open Weather web site](https://openweathermap.org/api)
+### Note:
+- Sorry you have to have API key from ![Weather web site](https://openweathermap.org/api)
 - You can have a free api key for limited time - just sign up for free.
 
 ## Features
